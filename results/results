@@ -1,0 +1,393 @@
+#
+# Results on Tuesday November 17 2020 10:42:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. L2.
+# 17. whichL2.
+# 18. type.
+# 19. lifetime.
+# 20. tense.
+# 21. mm.
+# 22. match.
+# 23. rating.
+# 24. item.
+# 25. name.
+# 26. list.
+# 27. withsquare.
+# 28. bare_verb.
+# 29. yes_key.
+# 30. Comments.
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1605609477434,daniela=2,20,female,yes,,demo,demo,demo,demo,demo,demo,demo,demo,demo,2,demo,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,0,0,demographics,NULL,DropDown,language,Selected,yes,1605609484627,daniela=2,20,female,yes,,demo,demo,demo,demo,demo,demo,demo,demo,demo,2,demo,F,0
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1605609486049,daniela=2,20,female,yes,,demo,demo,demo,demo,demo,demo,demo,demo,demo,2,demo,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,2,0,instructions1,NULL,PennController,1,_Trial_,Start,1605609486056,daniela=2,20,female,yes,,instr,instr,instr,instr,instr,instr,instr,instr,instr,2,instr,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,2,0,instructions1,NULL,PennController,1,_Trial_,End,1605609505083,daniela=2,20,female,yes,,instr,instr,instr,instr,instr,instr,instr,instr,instr,2,instr,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,PennController,7,_Trial_,Start,1605609505087,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Timer,time_out1,Start,Start,1605609508696,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Timer,time_out1,End,End,1605609509905,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative0Ian McEwan,PressedKey, ,1605609506401,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative1is,PressedKey, ,1605609506665,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative2a British,PressedKey, ,1605609506833,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative3novelist.,PressedKey, ,1605609507017,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative4He has been,PressedKey, ,1605609507193,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative5married twice.,PressedKey, ,1605609507385,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative6undefined,PressedKey, ,1605609507577,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative0Many of his,PressedKey, ,1605609507817,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative1novels,PressedKey, ,1605609508001,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative2have been adapted,PressedKey, ,1605609508178,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative3into films%2C,PressedKey, ,1605609508369,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative4according to news reports.,PressedKey, ,1605609508513,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,cumulative5undefined,PressedKey, ,1605609508681,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,Key,rating,PressedKey,F,1605609509905,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,3,0,practice,NULL,PennController,7,_Trial_,End,1605609510732,daniela=2,20,female,yes,,practice,living,PP,p,yes,undefined,209,ian*McEwan,111,2,adapt,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,PennController,8,_Trial_,Start,1605609510741,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Timer,time_out1,Start,Start,1605609514296,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Timer,time_out1,End,End,1605609515034,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative0Pierre Gatineau,PressedKey, ,1605609512049,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative1is,PressedKey, ,1605609512249,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative2a Canadian,PressedKey, ,1605609512417,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative3rapper.,PressedKey, ,1605609512585,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative4He lives,PressedKey, ,1605609512745,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative5in Montréal.,PressedKey, ,1605609512921,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative6undefined,PressedKey, ,1605609513041,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative0He,PressedKey, ,1605609513201,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative1is well-known,PressedKey, ,1605609513369,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative2in French,PressedKey, ,1605609513497,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative3speaking,PressedKey, ,1605609513730,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative4countries%2C,PressedKey, ,1605609513873,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative5supposedly.,PressedKey, ,1605609514073,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,cumulative6undefined2,PressedKey, ,1605609514282,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,Key,rating,PressedKey,F,1605609515033,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,4,0,practice,NULL,PennController,8,_Trial_,End,1605609515468,daniela=2,20,female,yes,,practice,dead,Pres,p,yes,undefined,210,Pierre Gatineau,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,PennController,9,_Trial_,Start,1605609515476,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Timer,time_out1,Start,Start,1605609520007,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Timer,time_out1,End,End,1605609520473,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative0Before,PressedKey, ,1605609517017,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative1her death,PressedKey, ,1605609517241,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative2in 2009%2C,PressedKey, ,1605609517409,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative3Chloe Masterson,PressedKey, ,1605609517617,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative4was,PressedKey, ,1605609517913,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative5an American,PressedKey, ,1605609518073,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative6singer.,PressedKey, ,1605609518249,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative7undefined,PressedKey, ,1605609518441,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative0She,PressedKey, ,1605609519161,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative1is currently,PressedKey, ,1605609519345,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative2recording,PressedKey, ,1605609519497,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative3a new album%2C,PressedKey, ,1605609519657,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative4apparently.,PressedKey, ,1605609519825,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,cumulative5undefined,PressedKey, ,1605609519993,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,Key,rating,PressedKey,F,1605609520473,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,5,0,practice,NULL,PennController,9,_Trial_,End,1605609521005,daniela=2,20,female,yes,,practice,living,Pres,p,no,undefined,211,Chloe Masterson,111,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,PennController,10,_Trial_,Start,1605609521013,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Timer,time_out1,Start,Start,1605609524473,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Timer,time_out1,End,End,1605609524673,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative0Toni Morrison,PressedKey, ,1605609522337,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative1was,PressedKey, ,1605609522553,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative2an American,PressedKey, ,1605609522721,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative3novelist,PressedKey, ,1605609522873,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative4from Ohio.,PressedKey, ,1605609523041,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative5undefined,PressedKey, ,1605609523225,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative0She,PressedKey, ,1605609523417,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative1was awarded,PressedKey, ,1605609523609,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative2the Nobel Prize,PressedKey, ,1605609523786,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative3in Literature%2C,PressedKey, ,1605609523945,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative4supposedly.,PressedKey, ,1605609524097,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,cumulative5undefined2,PressedKey, ,1605609524457,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,Key,rating,PressedKey,J,1605609524673,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,6,0,practice,NULL,PennController,10,_Trial_,End,1605609525148,daniela=2,20,female,yes,,practice,dead,Passive,p,yes,undefined,212,Toni Morrison,111,2,award,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,PennController,11,_Trial_,Start,1605609525155,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Timer,time_out1,Start,Start,1605609528782,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Timer,time_out1,End,End,1605609529081,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative0William Shakespeare,PressedKey, ,1605609526537,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative1was,PressedKey, ,1605609526785,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative2an English,PressedKey, ,1605609526969,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative3playwright.,PressedKey, ,1605609527122,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative4He died,PressedKey, ,1605609527281,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative5in 1616.,PressedKey, ,1605609527449,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative6undefined,PressedKey, ,1605609527665,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative0He,PressedKey, ,1605609528001,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative1lives,PressedKey, ,1605609528169,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative2in Stratford-upon-Avon%2C,PressedKey, ,1605609528329,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative3so his biography,PressedKey, ,1605609528487,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative4says.,PressedKey, ,1605609528641,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,cumulative5undefined,PressedKey, ,1605609528769,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,Key,rating,PressedKey,J,1605609529081,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,7,0,practice,NULL,PennController,11,_Trial_,End,1605609530661,daniela=2,20,female,yes,,practice,dead,Pres,p,no,undefined,213,William Shakespeare,111,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,8,0,instructions2,NULL,PennController,2,_Trial_,Start,1605609530666,daniela=2,20,female,yes,,instr2,instr2,instr2,instr2,instr2,instr2,instr2,instr2,instr2,2,instr2,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,8,0,instructions2,NULL,PennController,2,_Trial_,End,1605609536134,daniela=2,20,female,yes,,instr2,instr2,instr2,instr2,instr2,instr2,instr2,instr2,instr2,2,instr2,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,PennController,13,_Trial_,Start,1605609536137,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Timer,time_out1,Start,Start,1605609557059,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Timer,time_out1,End,End,1605609558507,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative0Whitney Houston,PressedKey, ,1605609553962,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative1was,PressedKey, ,1605609553984,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative2an American,PressedKey, ,1605609554393,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative3singer.,PressedKey, ,1605609554577,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative4She died,PressedKey, ,1605609555185,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative5in Beverly Hills.,PressedKey, ,1605609555401,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative6undefined,PressedKey, ,1605609555593,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative0She,PressedKey, ,1605609555953,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative1will appear,PressedKey, ,1605609556185,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative2in popular,PressedKey, ,1605609556329,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative3music videos,PressedKey, ,1605609556498,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative4in the future%2C,PressedKey, ,1605609556665,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative5supposedly.,PressedKey, ,1605609556833,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,cumulative6undefined2,PressedKey, ,1605609557049,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,Key,rating,PressedKey,F,1605609558506,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,10,0,critical,NULL,PennController,13,_Trial_,End,1605609558509,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,3,Whitney Houston,3,2,appear,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,PennController,58,_Trial_,Start,1605609558512,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Timer,time_out1,Start,Start,1605609570876,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Timer,time_out1,End,End,1605609571938,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative0Gabriel Čerkez,PressedKey, ,1605609564554,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative1is,PressedKey, ,1605609568159,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative2an Albanian,PressedKey, ,1605609568375,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative3newscaster.,PressedKey, ,1605609568559,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative4He lives,PressedKey, ,1605609568735,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative5in Calgary.,PressedKey, ,1605609568951,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative6undefined,PressedKey, ,1605609569303,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative0He,PressedKey, ,1605609569831,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative1died,PressedKey, ,1605609570215,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative2in 2017%2C,PressedKey, ,1605609570399,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative3as reported by his biography.,PressedKey, ,1605609570585,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,cumulative4undefined,PressedKey, ,1605609570865,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,Key,rating,PressedKey,J,1605609571937,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,55,0,filler,NULL,PennController,58,_Trial_,End,1605609571941,daniela=2,20,female,yes,,filler,dead,PS,livesdied,no,undefined,198,Gabriel Čerkez,999,2,die,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,PennController,31,_Trial_,Start,1605609571945,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Timer,time_out1,Start,Start,1605609581931,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Timer,time_out1,End,End,1605609588933,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative0Catherine%2C Duchess of Cambridge,PressedKey, ,1605609573505,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative1is,PressedKey, ,1605609578786,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative2a British,PressedKey, ,1605609579169,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative3royal.,PressedKey, ,1605609579353,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative4She lives,PressedKey, ,1605609579577,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative5in London.,PressedKey, ,1605609579769,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative6undefined,PressedKey, ,1605609580121,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative0She,PressedKey, ,1605609580457,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative1will work,PressedKey, ,1605609580633,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative2with important,PressedKey, ,1605609580816,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative3charities,PressedKey, ,1605609580993,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative4in the future%2C,PressedKey, ,1605609581305,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative5apparently.,PressedKey, ,1605609581545,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,cumulative6undefined2,PressedKey, ,1605609581921,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,Key,rating,Key,NA,Never,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,28,0,critical,NULL,PennController,31,_Trial_,End,1605609588937,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,80,Catherine%2C Duchess of Cambridge,3,2,work,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,PennController,55,_Trial_,Start,1605609588942,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Timer,time_out1,Start,Start,1605609596015,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Timer,time_out1,End,End,1605609596689,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative0Kemuel James,PressedKey, ,1605609591626,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative1was,PressedKey, ,1605609592505,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative2a Trinidadian,PressedKey, ,1605609592849,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative3businessman.,PressedKey, ,1605609593161,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative4He died,PressedKey, ,1605609593609,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative5in 2015.,PressedKey, ,1605609594097,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative6undefined,PressedKey, ,1605609594785,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative0He,PressedKey, ,1605609595217,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative1lives,PressedKey, ,1605609595409,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative2in Trinidad%2C,PressedKey, ,1605609595560,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative3as stated on Wikipedia.,PressedKey, ,1605609595728,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,cumulative4undefined,PressedKey, ,1605609596008,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,Key,rating,PressedKey,F,1605609596689,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,52,0,filler,NULL,PennController,55,_Trial_,End,1605609596692,daniela=2,20,female,yes,,filler,dead,Pres,retiredie,no,undefined,193,Kemuel James,999,2,live,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,59,0,break,NULL,PennController,3,_Trial_,Start,1605609596695,daniela=2,20,female,yes,,break,break,break,break,break,break,break,break,break,2,break,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,59,0,break,NULL,PennController,3,_Trial_,End,1605609603868,daniela=2,20,female,yes,,break,break,break,break,break,break,break,break,break,2,break,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,PennController,29,_Trial_,Start,1605609603871,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Timer,time_out1,Start,Start,1605609607613,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Timer,time_out1,End,End,1605609608617,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative0John Lennon,PressedKey, ,1605609605137,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative1was,PressedKey, ,1605609605465,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative2a British,PressedKey, ,1605609605633,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative3singer.,PressedKey, ,1605609605785,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative4He died,PressedKey, ,1605609605953,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative5in New York.,PressedKey, ,1605609606121,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative6undefined,PressedKey, ,1605609606289,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative0He,PressedKey, ,1605609606449,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative1will write,PressedKey, ,1605609606625,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative2well-known,PressedKey, ,1605609606793,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative3folk songs,PressedKey, ,1605609606953,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative4in the future%2C,PressedKey, ,1605609607121,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative5apparently.,PressedKey, ,1605609607273,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,cumulative6undefined2,PressedKey, ,1605609607601,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,Key,rating,PressedKey,J,1605609608617,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,26,0,critical,NULL,PennController,29,_Trial_,End,1605609608621,daniela=2,20,female,yes,,critical,dead,SF,deadSF,no,undefined,68,John Lennon,3,2,write,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,PennController,38,_Trial_,Start,1605609608626,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Timer,time_out1,Start,Start,1605609612092,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Timer,time_out1,End,End,1605609612834,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative0Amaka Chimaobim,PressedKey, ,1605609610025,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative1was,PressedKey, ,1605609610273,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative2a Nigerian,PressedKey, ,1605609610465,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative3television personality.,PressedKey, ,1605609610649,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative4She retired,PressedKey, ,1605609610793,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative5in 2010.,PressedKey, ,1605609610961,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative6undefined,PressedKey, ,1605609611121,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative0She,PressedKey, ,1605609611369,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative1grew up,PressedKey, ,1605609611609,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative2in Lagos%2C,PressedKey, ,1605609611777,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative3according to Google.,PressedKey, ,1605609611921,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,cumulative4undefined,PressedKey, ,1605609612083,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,Key,rating,PressedKey,F,1605609612833,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,35,0,filler,NULL,PennController,38,_Trial_,End,1605609612837,daniela=2,20,female,yes,,filler,retired,PS,grewup,yes,undefined,106,Amaka Chimaobim,999,2,grow-up,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,PennController,41,_Trial_,Start,1605609612843,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Timer,time_out1,Start,Start,1605609616075,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Timer,time_out1,End,End,1605609616738,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative0William Hermansson,PressedKey, ,1605609614107,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative1was,PressedKey, ,1605609614337,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative2a Swedish,PressedKey, ,1605609614505,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative3newscaster.,PressedKey, ,1605609614657,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative4He died,PressedKey, ,1605609614817,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative5in 1984.,PressedKey, ,1605609614961,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative6undefined,PressedKey, ,1605609615161,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative0He,PressedKey, ,1605609615440,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative1was born and raised,PressedKey, ,1605609615593,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative2in Stockholm%2C,PressedKey, ,1605609615761,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative3if one believes his biography.,PressedKey, ,1605609615905,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,cumulative4undefined,PressedKey, ,1605609616065,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,Key,rating,PressedKey,F,1605609616737,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,38,0,filler,NULL,PennController,41,_Trial_,End,1605609616741,daniela=2,20,female,yes,,filler,dead,PS,born,yes,undefined,120,William Hermansson,999,2,be,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,PennController,19,_Trial_,Start,1605609616745,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Timer,time_out1,Start,Start,1605609620963,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Timer,time_out1,End,End,1605609621313,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative0Malala,PressedKey, ,1605609618089,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative1is,PressedKey, ,1605609618369,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative2a Pakistani activist.,PressedKey, ,1605609618520,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative3She lives,PressedKey, ,1605609618681,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative4in Birmingham.,PressedKey, ,1605609618849,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative5undefined,PressedKey, ,1605609619185,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative0She,PressedKey, ,1605609619907,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative1will receive,PressedKey, ,1605609620073,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative2prestigious,PressedKey, ,1605609620240,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative3activism awards,PressedKey, ,1605609620401,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative4in the future%2C,PressedKey, ,1605609620569,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative5so it's said.,PressedKey, ,1605609620737,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,cumulative6undefined,PressedKey, ,1605609620953,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,Wait success
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,Key,rating,PressedKey,J,1605609621312,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,16,0,critical,NULL,PennController,19,_Trial_,End,1605609621315,daniela=2,20,female,yes,,critical,living,SF,livingSF,yes,undefined,31,Malala,3,2,receive,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,60,0,post-instructions,NULL,PennController,4,_Trial_,Start,1605609621317,daniela=2,20,female,yes,,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,2,post-instr,F,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,60,0,post-instructions,NULL,PennController,4,_Trial_,End,1605609624747,daniela=2,20,female,yes,,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,post-instr,2,post-instr,F,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. prolificID.
+# 14. age.
+# 15. sex.
+# 16. L2.
+# 17. whichL2.
+# 18. type.
+# 19. lifetime.
+# 20. tense.
+# 21. mm.
+# 22. match.
+# 23. rating.
+# 24. item.
+# 25. name.
+# 26. list.
+# 27. withsquare.
+# 28. bare_verb.
+# 29. post-ques1.
+# 30. post-ques2.
+# 31. post-ques3.
+# 32. post-ques4.
+# 33. Comments.
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,PennController,5,_Trial_,Start,1605609624750,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,notice,Final, no,1605609681144,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,notice,First, ,1605609677359,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,n
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,about,Final,no,1605609681144,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,about,First,,1605609678626,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,n
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,easyhard,Final,no,1605609681144,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,easyhard,First,,1605609679746,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,n
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,strategy,Final,no,1605609681144,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,TextInput,strategy,First,,1605609680618,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,n
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,61,0,post-ques,NULL,PennController,5,_Trial_,End,1605609681145,daniela=2,20,female,yes,,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,post-ques,2,post-ques, no,no,no,no,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,62,0,post-task-intro,NULL,PennController,6,_Trial_,Start,1605609681147,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,62,0,post-task-intro,NULL,PennController,6,_Trial_,End,1605609682644,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,PennController,62,_Trial_,Start,1605609682646,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Justin Trudeau-scale-%2C life =livinglist =24,Choice,yes,1605609685099,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Jimi Hendrix-scale-%2C life =deadlist =12,Choice,yes,1605609685907,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Vladimir Putin-scale-%2C life =livinglist =12,Choice,yes,1605609686858,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Catherine%2C Duchess of Cambridge-scale-%2C life =livinglist =24,Choice,yes,1605609687290,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,John Lennon-scale-%2C life =deadlist =12,Choice,yes,1605609687731,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Malala-scale-%2C life =livinglist =12,Choice,yes,1605609688138,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Meryl Streep-scale-%2C life =livinglist =12,Choice,yes,1605609688506,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Shakira-scale-%2C life =livinglist =12,Choice,yes,1605609689186,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Golibe Osinachi-scale-%2C life =fakelist =1234,Choice,no,1605609690074,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Maya Butler-scale-%2C life =fakelist =1234,Choice,yes,1605609691487,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Silvio Berlusconi-scale-%2C life =livinglist =24,Choice,yes,1605609691792,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,David Bowie-scale-%2C life =deadlist =12,Choice,yes,1605609692155,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Beyoncé-scale-%2C life =livinglist =12,Choice,yes,1605609692481,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Elton John-scale-%2C life =livinglist =24,Choice,yes,1605609692841,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Paul McCartney-scale-%2C life =livinglist =24,Choice,yes,1605609693787,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,J.K. Rowling-scale-%2C life =livinglist =12,Choice,yes,1605609694355,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Richard Nixon-scale-%2C life =deadlist =12,Choice,yes,1605609694626,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Abraham Lincoln-scale-%2C life =deadlist =24,Choice,yes,1605609695739,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Romy Schneider-scale-%2C life =deadlist =24,Choice,yes,1605609696286,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Kendrick Lamar-scale-%2C life =livinglist =12,Choice,yes,1605609696683,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Mick Jagger-scale-%2C life =livinglist =24,Choice,yes,1605609697034,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Marcel Sochacki-scale-%2C life =fakelist =1234,Choice,no,1605609698536,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Bogdan Hrvat-scale-%2C life =fakelist =1234,Choice,no,1605609699017,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Saša Varga-scale-%2C life =fakelist =1234,Choice,no,1605609700355,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,George R.R. Martin-scale-%2C life =livinglist =24,Choice,yes,1605609700786,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Margaret Thatcher-scale-%2C life =deadlist =24,Choice,yes,1605609701610,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Brad Pitt-scale-%2C life =livinglist =12,Choice,yes,1605609701986,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Alan Rickman-scale-%2C life =deadlist =12,Choice,yes,1605609702867,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Janet Jackson-scale-%2C life =livinglist =12,Choice,yes,1605609703616,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Sir Christopher Lee-scale-%2C life =deadlist =12,Choice,yes,1605609703970,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Alfred Hitchcock-scale-%2C life =deadlist =24,Choice,yes,1605609704602,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Jimmy Stewart-scale-%2C life =deadlist =24,Choice,yes,1605609705545,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Amy Winehouse-scale-%2C life =deadlist =24,Choice,yes,1605609709993,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Whitney Houston-scale-%2C life =deadlist =24,Choice,yes,1605609710322,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Jonathan Wah-scale-%2C life =fakelist =1234,Choice,yes,1605609711469,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Benedict Cumberbatch-scale-%2C life =livinglist =24,Choice,yes,1605609711969,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Winston Churchill-scale-%2C life =deadlist =12,Choice,yes,1605609712514,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Gabriel Čerkez-scale-%2C life =fakelist =1234,Choice,no,1605609713139,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Mother Teresa-scale-%2C life =deadlist =24,Choice,yes,1605609713946,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Denzel Washington-scale-%2C life =livinglist =24,Choice,yes,1605609714375,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Agatha Christie-scale-%2C life =deadlist =24,Choice,yes,1605609714674,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Erik-Jan Vrijburg-scale-%2C life =fakelist =1234,Choice,no,1605609715554,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Myley McLeod-scale-%2C life =fakelist =1234,Choice,no,1605609716410,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Princess Diana-scale-%2C life =deadlist =12,Choice,yes,1605609717534,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Prince-scale-%2C life =deadlist =24,Choice,yes,1605609717920,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Mark Twain-scale-%2C life =deadlist =12,Choice,yes,1605609718363,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Jacinda Arden-scale-%2C life =livinglist =12,Choice,yes,1605609718858,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Steven Spielberg-scale-%2C life =livinglist =12,Choice,yes,1605609719761,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Janis Joplin-scale-%2C life =deadlist =24,Choice,yes,1605609720850,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,Scale,Karolien de Hooge-scale-%2C life =fakelist =1234,Choice,no,1605609721849,NULL
+1605609723,2339875e0a17238d14296098575ef2b2,PennController,63,0,post-task,NULL,PennController,62,_Trial_,End,1605609722441,NULL
