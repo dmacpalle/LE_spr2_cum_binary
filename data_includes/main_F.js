@@ -6,10 +6,11 @@ PennController.ResetPrefix(null);
 
 // sequence
 // partial test run:
-//PennController.Sequence("practice");
+//PennController.Sequence("final");
 //PennController.Sequence(subsequence(repeat(shuffle(randomize("critical")), 10) , "break"), "final");
 // full sequence test run (8 items):
-PennController.Sequence( "demographics", "instructions1", "practice", "instructions2", subsequence(repeat(shuffle(randomize("critical"), randomize("filler")), 4) , "break"), "post-instructions", "post-ques", "post-task-intro", "post-task",  "send", "final");
+PennController.Sequence( "demographics", "instructions1", "practice", "instructions2", subsequence(repeat(shuffle(randomize("critical"), randomize("filler")), 25) , "break"), "post-instructions", "post-ques", "post-task-intro", "post-task",  "send", "final");
+//PennController.Sequence(subsequence(repeat(shuffle(randomize("critical"), randomize("filler")), 25) , "break"), "post-instructions", "post-ques", "post-task-intro", "post-task",  "send", "final");
 
 // FOR REAL PARTICIPANTS; check: # of trials, DebugOff, DELETE results file
 //PennController.DebugOff()
@@ -55,7 +56,7 @@ cumulative_bio = (sentence, remove) => {
     // COURIER as font
     // We'll go through each word, and add two command blocks per word
     for (let i = 0; i <= words.length; i++)
-    cmds = cmds.concat([ newKey('cumulative'+i+words[i], " ").log().wait() , // Wait for (and log) a press on Space
+    cmds = cmds.concat([ newKey('context'+i+words[i], " ").log().wait() , // Wait for (and log) a press on Space
     getText(textName).text(blanks.map((w,n)=>(n<=i?words[n]:w)).join(' ')) ]); // Show word
     if (remove)  // Remove the text after the last key.wait() is parameter specified
     cmds.push(getText(textName).remove()); 
@@ -85,7 +86,7 @@ cumulative_crit = (sentence, remove) => {
     let cmds = [ newText(textName, blanks.join(' ')).print() .settings.css("font-family","courier") .settings.css("font-size", "20px") .print("20vw","50vh")]; // COURIER as font
     // We'll go through each word, and add two command blocks per word
     for (let i = 0; i <= words.length; i++)
-    cmds = cmds.concat([ newKey('cumulative'+i+words[i], " ").log().wait() , // Wait for (and log) a press on Space
+    cmds = cmds.concat([ newKey('critical'+i+words[i], " ").log().wait() , // Wait for (and log) a press on Space
     getText(textName).text(blanks.map((w,n)=>(n<=i?words[n]:w)).join(' ')) ]); // Show word
     if (remove)  // Remove the text after the last key.wait() is parameter specified
     cmds.push(getText(textName).remove()); 
@@ -496,23 +497,27 @@ PennController( "instructions1",
                        )
                 .settings.css("font-size", "20px")
                 ,
-                newText("example", "<p><i>'He ____________ ____ ____________________ ___________'</i>")
+                newText("example",  "<p><i>'He ____________ ____ _____________________ ____________ __________'</i>")
                 .settings.css("font-size", "15px")
                 .settings.css("font-family","courier")
                 ,
-                newText("example1", "<p><i>'He has narrated ____ _____________________ ___________'</i>")
+                newText("example1", "<p><i>'He has narrated ____ _____________________ ____________ __________'</i>")
                 .settings.css("font-size", "15px")
                 .settings.css("font-family","courier")
                 ,
-                newText("example2", "<p><i>'He has narrated many _____________________ ___________'</i>")
+                newText("example2", "<p><i>'He has narrated many _____________________ ____________ __________'</i>")
                 .settings.css("font-size", "15px")
                 .settings.css("font-family","courier")
                 ,
-                newText("example3", "<p><i>'He has narrated many nature documentaries, ___________'</i>")
+                newText("example3", "<p><i>'He has narrated many nature documentaries, ____________ __________'</i>")
                 .settings.css("font-size", "15px")
                 .settings.css("font-family","courier")
                 ,
-                newText("example4", "<p><i>'He has narrated many nature documentaries, apparently.'</i>")
+                newText("example4", "<p><i>'He has narrated many nature documentaries, according to __________'</i>")
+                .settings.css("font-size", "15px")
+                .settings.css("font-family","courier")
+                ,
+                newText("example5", "<p><i>'He has narrated many nature documentaries, according to Wikipedia.'</i>")
                 .settings.css("font-size", "15px")
                 .settings.css("font-family","courier")
                 , 
@@ -543,6 +548,14 @@ PennController( "instructions1",
                 getCanvas("instruccanvas")
                 .remove(getText("example3"))
                 .settings.add(70,300, getText("example4"))
+                .print()  
+                 ,                
+                newKey("ex4"," ")
+                .wait()
+                ,
+                getCanvas("instruccanvas")
+                .remove(getText("example4"))
+                .settings.add(70,300, getText("example5"))
                 .print()  
                 , 
                 newKey("instr_c", " ")
@@ -596,7 +609,7 @@ PennController( "instructions1",
 // Practice items
 
 
-PennController.Template( PennController.GetTable( "master_spr_all.csv")// change this line for the appropriate experimental list
+PennController.Template( PennController.GetTable( "master_spr_subset20_past.csv")// change this line for the appropriate experimental list
                          .filter("type" , "practice")
                          ,  
                          variable => ["practice",
@@ -659,7 +672,7 @@ PennController.Template( PennController.GetTable( "master_spr_all.csv")// change
                                       .print("20vw","55vh")
                                       ,
                                       //critical sentence
-                                      ...cumulative(variable.critical, "remove")    
+                                      ...cumulative_crit(variable.critical, "remove")    
                                       ,
                                       // clear bio and crit sentences
                                       getText("crit_instru")
@@ -843,7 +856,7 @@ PennController( "instructions2" ,
                 newCanvas("dots", 300, 100)
                 .print()
                 ,
-                newText("intro_experiment", "<p>That's the end of the practice round. You can now start the actual experiment. <p> <p>The instructions and feedback that appeared during the practice round (e.g., <i>Press the spacebar to continue</i>) will no longer appear.<p> There will be a short break halfway through the experiment.<p><b><i>Please attend to the experiment until you are finished finished. If you take too long, we won't be able to use your data!</i></b>")
+                newText("intro_experiment", "<p>That's the end of the practice round. You can now start the actual experiment. <p> <p>The instructions and feedback that appeared during the practice round (e.g., <i>Press the spacebar to continue</i>) will no longer appear.<p> There will be a short break halfway through the experiment.<p><b><i>Please attend to the experiment until you are finished. If you take too long, we won't be able to use your data!</i></b>")
                 .settings.css("font-size", "20px")
                 .print()
                 ,
@@ -903,7 +916,7 @@ PennController( "instructions2" ,
 //====================================================================================================================================================================================================================
 // Critical items
 
-PennController.Template( PennController.GetTable( "master_spr_all.csv")
+PennController.Template( PennController.GetTable( "master_spr_subset20_past.csv")
                          .filter("type" , "critical")
                          ,
                          variable => ["critical",
@@ -1016,7 +1029,7 @@ PennController.Template( PennController.GetTable( "master_spr_all.csv")
 //====================================================================================================================================================================================================================
 // Filler items
 
-PennController.Template( PennController.GetTable( "master_spr_all.csv")
+PennController.Template( PennController.GetTable( "master_spr_subset20_past.csv")
                          .filter("type" , "filler")
                          ,
                          variable => ["filler",
@@ -1433,7 +1446,8 @@ function handleNames(row){
                             ,
                             newText("<p>Thank you for your participation!"
                             + " Here is your validation code: <b>"+variable.val_code+".</b>"
-                            + "<br><p>Enter this code on the Prolific website in order to receive your payment.</p>")
+                            + "<br><p>Enter this code <b>on the Prolific website immediately</b> in order to receive your payment.</p> If you wait too long, Prolific will mark your submission as 'timed out'."
+                            + " This will interfere with the processing of your payment.")
                             .settings.css("font-size", "20px")
                             .settings.center()
                             .print()
